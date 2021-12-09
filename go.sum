@@ -1,2 +1,4 @@
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/rqlite/gorqlite v0.0.0-20211109132954-02becb03d7ec h1:HjW4IWtHsBOIjM3FW18c49baLqjt3I1slHT7ZRHjpv0=
+github.com/rqlite/gorqlite v0.0.0-20211109132954-02becb03d7ec/go.mod h1:UW/gxgQwSePTvL1KA8QEHsXeYHP4xkoXgbDdN781p34=
